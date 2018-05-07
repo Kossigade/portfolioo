@@ -1,0 +1,14 @@
+.headd, h1{
+    
+    margin: auto;
+    background-color: #F5D76E;
+    color:#fff;
+    border: 1px solid #F5D76E;
+    font-size: 180%;
+
+}
+
+.row{
+    text-align: center;
+    margin-top: 10%;
+}
