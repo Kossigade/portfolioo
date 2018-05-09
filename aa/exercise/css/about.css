@@ -31,3 +31,22 @@ body{
     background-attachment: scroll, fixed;
     
 }
+
+
+.button:hover{
+    background-color:#F5D76E;
+}
+
+
+
+.button1{
+    background-color: #F5D76E; 
+    color: white; 
+    font-size: 20px;
+    border: 1px solid white;
+}
+
+.bttn{
+    position: absolute;
+    top: 80%;    
+}

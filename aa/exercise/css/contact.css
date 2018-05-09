@@ -8,7 +8,42 @@
 
 }
 
+h4{
+    font-size: 20px;
+    text-align: center;
+}
+
 .row{
     text-align: center;
     margin-top: 10%;
+}
+
+
+li{
+    margin: 10%;
+    display: inline-block;
+    text-align: center;
+}
+
+ul, p{
+    list-style: none;
+    margin: auto;
+    padding: auto;  
+    color: white;
+}
+
+a:invalid{
+    
+}
+
+
+aside, h4{
+    
+    margin: auto;
+    color: #F5D76E;
+    
+}
+
+.linkin{
+    border-bottom: 1px solid #F5D76E;
 }
