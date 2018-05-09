@@ -43,8 +43,8 @@ ul, p{
     color: white;
 }
 
-a:invalid{
-    
+i:hover{
+    color: #F5D76E;
 }
 
 
