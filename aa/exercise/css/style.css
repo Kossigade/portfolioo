@@ -52,7 +52,8 @@ body{
     float: right;
     list-style: none;
     margin-top: 30px;
-    border:1px solid white;    
+    border:1px solid white;  
+    
 }
 
 
@@ -64,6 +65,7 @@ body{
     margin:4px 20px;
     font-family:"Roboto, Sans-serif";
     font-size:15px;
+    font-family: 'Oswald';
     
 }
 

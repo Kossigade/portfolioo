@@ -8,9 +8,20 @@
 
 }
 
-h4{
-    font-size: 20px;
+h4, h2{
+    display: block;
+    margin: auto;
     text-align: center;
+    font-weight: 100;
+}
+
+h2{
+    font-size: 40px;
+    text-transform: uppercase; 
+    
+}
+span a{
+    font-family: 'Lato';
 }
 
 .row{
@@ -20,7 +31,7 @@ h4{
 
 
 li{
-    margin: 10%;
+    margin: 9.5%;
     display: inline-block;
     text-align: center;
 }
